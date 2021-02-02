@@ -2,6 +2,10 @@
 
 这是一个用于在QQ群里查询游戏《EVE Online》中市场中心（Jita）物价的Bot.
 
+# 说明
+
+本版本由 https://github.com/yomunsam/EVEMarketBot 拆分两边服务器来区欧服和国服.目前仅测试cqcx可用.
+
 # 快速开始
 
 ## 准备工作
